@@ -1,0 +1,30 @@
+{
+  "id": "./",
+  "name": "MAX CARD FINANCE PRO",
+  "short_name": "MAX CARD",
+  "description": "نظام محاسبة وجرد عربي لمتجر MAX CARD",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "background_color": "#090b1d",
+  "theme_color": "#241038",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
