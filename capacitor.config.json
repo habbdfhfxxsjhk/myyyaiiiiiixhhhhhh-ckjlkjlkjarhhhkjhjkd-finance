@@ -1,0 +1,10 @@
+{
+  "appId": "store.maxcard.finance",
+  "appName": "MAX CARD FINANCE PRO",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#9B5CFF"
+    }
+  }
+}
