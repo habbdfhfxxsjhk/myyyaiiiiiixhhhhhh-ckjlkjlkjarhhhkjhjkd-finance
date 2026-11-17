@@ -1,0 +1,1 @@
+Android web assets are copied from the repository root by the CI workflow. Never commit financial records or backups.
